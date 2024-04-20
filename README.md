@@ -1,4 +1,4 @@
-# ComfyUI's ControlNet Auxiliary Preprocessors
+# ComfyUI's ControlNet Auxiliary Preprocessors 中文翻译
 ![](./examples/example_mesh_graphormer.png)
 Plug-and-play [ComfyUI](https://github.com/comfyanonymous/ComfyUI) node sets for making [ControlNet](https://github.com/lllyasviel/ControlNet/) hint images
 
